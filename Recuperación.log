@@ -1,0 +1,5 @@
+﻿Fecha y hora	Nombre de archivo	Error	Mensaje
+2019-11-10 17:15:26.875 -0300	e-ficha IIIe.fmp12	0	*** Iniciada la comprobación de consistencia del archivo cerrado incorrectamente, se van a comprobar un total de 11680 bloques
+2019-11-10 17:15:26.993 -0300	e-ficha IIIe.fmp12	8432	Página 11680 marcada como disponible; no aparece en la lista
+2019-11-10 17:15:26.994 -0300	e-ficha IIIe.fmp12	0	Restablecer número máximo de secuencia de bloques a 16839873
+2019-11-10 17:15:26.994 -0300	e-ficha IIIe.fmp12	0	*** Comprobación de consistencia completada, 11680 bloque(s) comprobado(s)
